@@ -1,4 +1,4 @@
-<table align="center" border="0">
+<table align="center">
   <td valign="middle">
     <img
       style="float: middle"
