@@ -1,15 +1,15 @@
 <table align="center" border="0">
-  <td valign="top">
+  <td valign="middle">
     <img
-      style="float: left"
+      style="float: middle"
       title="Daniel Parizher's GitHub Stats"
       alt="Daniel Parizher's GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=Arborym&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=github_dark"
     />
   </td>
-  <td valign="left">
+  <td valign="middle">
     <img
-      style="float: left"
+      style="float: middle"
       title="Daniel Parizher's Most Used Languages"
       alt="Daniel Parizher's Most Used Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arborym&layout=default&theme=github_dark"
