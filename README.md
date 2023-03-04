@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0">
   <td valign="top">
     <img
       style="float: left"
@@ -24,7 +24,6 @@
       src="https://leetcard.jacoblin.cool/dparizher?theme=nord&font=Roboto&ext=activity"
     />
   </a>
-  <br />
   <a href="https://github.com/Arborym">
     <img
       title="Daniel Parizher's Contribution Graph"
