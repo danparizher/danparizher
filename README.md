@@ -21,10 +21,10 @@
     <img
       title="Daniel Parizher's LeetCode Stats"
       alt="Daniel Parizher's LeetCode Stats"
-      src="https://leetcard.jacoblin.cool/dparizher?theme=nord&font=Roboto&ext=activity&width=700"
+      src="https://leetcard.jacoblin.cool/dparizher?theme=nord&font=Roboto&ext=activity"
     />
   </a>
-
+  <br />
   <a href="https://github.com/Arborym">
     <img
       title="Daniel Parizher's Contribution Graph"
