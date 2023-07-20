@@ -12,7 +12,7 @@
       style="float: middle"
       title="Daniel Parizher's Most Used Languages"
       alt="Daniel Parizher's Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arborym&layout=default&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arborym&theme=github_dark"
     />
   </td>
 </table>
@@ -28,7 +28,7 @@
     <img
       title="Daniel Parizher's Contribution Graph"
       alt="Daniel Parizher's Contribution Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=Arborym&theme=github"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Arborym&theme=github"
     />
   </a>
 </p>
