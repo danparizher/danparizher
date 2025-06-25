@@ -7,10 +7,11 @@ settings:
     - "star"
     - "release"
     - "issue"
+    - "commit"
   strings:
-    PR_MERGED: "Merged PR {pr_link} in {repo_link}"
-    PR_OPENED: "Opened PR {pr_link} in {repo_link}"
-    ISSUE_OPENED: "Opened issue {issue_link} in {repo_link}"
-    ISSUE_CLOSED: "Closed issue {issue_link} in {repo_link}"
-    ISSUE_COMMENT: "Commented on issue {issue_link} in {repo_link}"
-    RELEASE: "Released {release_link} in {repo_link}"
+    PR_MERGED: 'Merged PR <a href="{pr_url}">{pr_link}</a> in <a href="{repo_url}">{repo_link}</a>'
+    PR_OPENED: 'Opened PR <a href="{pr_url}">{pr_link}</a> in <a href="{repo_url}">{repo_link}</a>'
+    ISSUE_OPENED: 'Opened issue <a href="{issue_url}">{issue_link}</a> in <a href="{repo_url}">{repo_link}</a>'
+    ISSUE_CLOSED: 'Closed issue <a href="{issue_url}">{issue_link}</a> in <a href="{repo_url}">{repo_link}</a>'
+    ISSUE_COMMENT: 'Commented on issue <a href="{issue_url}">{issue_link}</a> in <a href="{repo_url}">{repo_link}</a>'
+    RELEASE: 'Released <a href="{release_url}">{release_link}</a> in <a href="{repo_url}">{repo_link}</a>'
