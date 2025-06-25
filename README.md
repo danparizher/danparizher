@@ -23,18 +23,4 @@
     />
   </a>
 
-  <h2>📄 Recent Activity</h2>
-  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 98 commit(s) to [danparizher/ruff](https://github.com/danparizher/ruff)<br>
-2. ⬆️ Pushed 13 commit(s) to [danparizher/ruff](https://github.com/danparizher/ruff)<br>
-3. 💪 Opened PR [#18782](https://github.com/astral-sh/ruff/pull/18782) in [astral-sh/ruff](https://github.com/astral-sh/ruff)<br>
-4. ⬆️ Pushed 1 commit(s) to [danparizher/ruff](https://github.com/danparizher/ruff)<br>
-5. ⬆️ Pushed 102 commit(s) to [danparizher/ruff](https://github.com/danparizher/ruff)<br>
-6. ⬆️ Pushed 2 commit(s) to [danparizher/Pax-Academia](https://github.com/danparizher/Pax-Academia)<br>
-7. 🎉 Merged PR [#321](https://github.com/danparizher/Pax-Academia/pull/321) in [danparizher/Pax-Academia](https://github.com/danparizher/Pax-Academia)<br>
-8. ⬆️ Pushed 106 commit(s) to [danparizher/ruff](https://github.com/danparizher/ruff)<br>
-9. ⬆️ Pushed 7 commit(s) to [danparizher/sod](https://github.com/danparizher/sod)<br>
-10. 📔 Created new repository [danparizher/empty](https://github.com/danparizher/empty)<br>
-  <!--RECENT_ACTIVITY:end-->
-
 </div>
