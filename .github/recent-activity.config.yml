@@ -1,7 +1,7 @@
 settings:
   username: "danparizher"
   commit_message: "docs: update recent github activity"
-  max_lines: 15
+  max_lines: 10
   readme_file: "./README.md"
   disabled_events:
     - "star"
@@ -10,9 +10,7 @@ settings:
   strings:
     PR_MERGED: "Merged PR {pr_link} in {repo_link}"
     PR_OPENED: "Opened PR {pr_link} in {repo_link}"
-    COMMIT: "Pushed {number_of_commits} commit(s) to {repo_link}"
     ISSUE_OPENED: "Opened issue {issue_link} in {repo_link}"
     ISSUE_CLOSED: "Closed issue {issue_link} in {repo_link}"
     ISSUE_COMMENT: "Commented on issue {issue_link} in {repo_link}"
     RELEASE: "Released {release_link} in {repo_link}"
-    STAR: "Starred {repo_link}"
