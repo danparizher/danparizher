@@ -25,6 +25,8 @@
 
   <h2>📄 Recent Activity</h2>
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#18782](https://github.com/astral-sh/ruff/pull/18782) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🎉 Merged PR [#321](https://github.com/danparizher/Pax-Academia/pull/321) in [danparizher/Pax-Academia](https://github.com/danparizher/Pax-Academia)
   <!--END_SECTION:activity-->
 
 </div>
